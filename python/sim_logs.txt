@@ -1,0 +1,3 @@
+INFO: UE_100 connected
+ERROR: UE_101 RRC_TIMEOUT
+INFO: UE_102 connected
